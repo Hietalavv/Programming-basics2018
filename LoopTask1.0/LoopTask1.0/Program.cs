@@ -29,22 +29,7 @@ namespace LoopTask1._0
             }
             Console.WriteLine($"Luvun {number}! = {fact}");
 
-
-
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
